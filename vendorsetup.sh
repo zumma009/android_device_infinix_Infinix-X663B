@@ -1,0 +1,3 @@
+add_lunch_combo twrp_X663B-eng
+add_lunch_combo twrp_X663B-user
+add_lunch_combo twrp_X663B-userdebug
