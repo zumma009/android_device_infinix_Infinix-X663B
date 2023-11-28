@@ -113,7 +113,6 @@ TW_USE_TOOLBOX := true
 TW_INCLUDE_REPACKTOOLS := true
 TW_Y_OFFSET := 70
 TW_H_OFFSET := -70
-TW_BRIGHTNESS_PATH := "/sys/class/backlight/panel0-backlight/brightness"
 TW_DEFAULT_BRIGHTNESS := 1000
 TW_DEFAULT_LANGUAGE := ENG
 TW_NO_SCREEN_BLANK := true
